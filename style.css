@@ -48,7 +48,7 @@ button {
     background-color: #1F2937;
     color: #F9FAF8;
     flex: auto;
-    padding: 0 64px;
+    padding: 12px 64px;
 }
 
 .header .links {
